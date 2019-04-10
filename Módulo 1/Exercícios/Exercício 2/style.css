@@ -1,0 +1,22 @@
+/*
+Exercício 2: Crie um arquivo CSS, com a seguinte formatação:
+h1: sublinhado, Verdana, verde 
+h3: itálico, Comic Sans, roxo.
+p: Arial, preto
+*/
+h1{
+	text-decoration: underline;
+	font-family: Verdana;
+	color: green;
+}
+
+h3{
+	font-style: italic;
+	font-family: "Comic Sans";
+	color: #9900cc;
+}
+
+p{
+	font-family: Arial;
+	color: black;
+}
